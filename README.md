@@ -1,3 +1,5 @@
+Live Deployed Link - https://l5q6d6-3000.csb.app/
+
 User Tabs Component
 
 Implementing a basic (not fully accessible) Tabs component in React is quite simple due to the fact that only one state value is needed, the currently active tab item. React also helps to keep the state and the UI in sync, which is more troublesome to do so in Vanilla JavaScript.
